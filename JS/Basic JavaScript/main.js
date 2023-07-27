@@ -158,3 +158,31 @@ const FCC = "freeCodeCamp"; // Change this line
 let fact = "is cool!"; // Change this line
 fact = "is awesome!";
 console.log(FCC, fact); // Change this line
+
+/* Number is a data type in JavaScript which represents numeric data.
+
+Now let's try to add two numbers using JavaScript.
+
+JavaScript uses the + symbol as an addition operator when placed between two numbers.
+
+Example:
+
+const myVar = 5 + 10;
+myVar now has the value 15.
+
+Change the 0 so that sum will equal 20.*/
+
+const sum = 10 + 10;
+
+/* We can also subtract one number from another.
+
+JavaScript uses the - symbol for subtraction.
+
+Example
+
+const myVar = 12 - 6;
+myVar would have the value 6.
+
+Change the 0 so the difference is 12.*/
+
+const difference = 45 - 33;
