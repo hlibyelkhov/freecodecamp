@@ -263,6 +263,10 @@ Change the 0.0 so that product will equal 5.0. */
 
 const product = 2.5 * 2;
 
+/* Now let's divide one decimal by another.
 
+Change the 0.0 so that quotient will equal to 2.2.*/
+
+const quotient = 4.4 / 2.0; // Change this line
 
 
