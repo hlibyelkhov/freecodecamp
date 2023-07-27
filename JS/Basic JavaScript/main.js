@@ -228,3 +228,41 @@ let myVar = 87;
 
 // Only change code below this line
 myVar++;
+
+/* You can easily decrement or decrease a variable by one with the -- operator.
+
+i--;
+is the equivalent of
+
+i = i - 1;
+Note: The entire line becomes i--;, eliminating the need for the equal sign.
+
+Change the code to use the -- operator on myVar.*/
+
+let myVar = 11;
+
+// Only change code below this line
+myVar--;
+
+/* We can store decimal numbers in variables too. Decimal numbers are sometimes referred to as floating point numbers or floats.
+
+Note: when you compute numbers, they are computed with finite precision. Operations using floating points may lead to different results than the desired outcome. If you are getting one of these results, open a topic on the freeCodeCamp forum.
+
+Create a variable myDecimal and give it a decimal value with a fractional part (e.g. 5.7). */
+
+const ourDecimal = 5.7;
+
+// Only change code below this line
+const myDecimal = 3.14;
+
+/* In JavaScript, you can also perform calculations with decimal numbers, just like whole numbers.
+
+Let's multiply two decimals together to get their product. 
+
+Change the 0.0 so that product will equal 5.0. */
+
+const product = 2.5 * 2;
+
+
+
+
